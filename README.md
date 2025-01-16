@@ -7,6 +7,10 @@ Golden Rain is a fun arcade game built with Python and Pygame. Move the robot to
 - **Avoid Monsters:** Stay away from monsters to keep the game going.
 - **Simple Controls:** Use arrow keys to move and keyboard shortcuts to control the game.
 
+### Gameplay Screenshot
+![Gameplay Screenshot](images/s1.png)
+![Gameplay Screenshot](images/s2.png)
+
 ## Requirements
 - Python 3.8 or higher
 
